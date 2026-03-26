@@ -42,6 +42,7 @@ def exibir_subtitulo(texto):
     print(linha)
 
 def cadastrar_restaurante():
+    '''Essa função é responsável por cadastrar novos restaurantes'''
     os.system('cls')
     exibir_subtitulo('Cadastro de novos restaurantes')
     
