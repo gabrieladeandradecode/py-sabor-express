@@ -29,9 +29,8 @@ O projeto tem como principal objetivo consolidar conceitos fundamentais de progr
 
 ## 🖥️ Demonstração
 
-> **Em breve:**
+> ![Demonstração do Sabor Express](./assets/demo.gif)
 
-> 
 ---
 
 ## 📋 Menu da aplicação
@@ -103,7 +102,7 @@ git clone https://github.com/gabrieladeandradecode/py-sabor-express.git
 Acesse a pasta do projeto:
 
 ```bash
-cd sabor-express
+cd py-sabor-express
 ```
 
 ### Executar a aplicação
