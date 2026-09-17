@@ -6,6 +6,12 @@ O projeto foi desenvolvido como parte da minha jornada de aprendizado em Python,
 
 ---
 
+## 🖥️ Demonstração
+
+> ![Demonstração do Sabor Express](./assets/demo.gif)
+
+---
+
 ## 📌 Sobre o projeto
 
 O **Sabor Express** é uma aplicação executada diretamente pelo terminal que permite ao usuário cadastrar restaurantes, visualizar os restaurantes cadastrados e alternar o estado de ativação de cada estabelecimento.
@@ -24,12 +30,6 @@ O projeto tem como principal objetivo consolidar conceitos fundamentais de progr
 * [x] Encerrar a aplicação
 * [x] Validação de opções do menu
 * [x] Tratamento de erros durante a entrada de dados
-
----
-
-## 🖥️ Demonstração
-
-> ![Demonstração do Sabor Express](./assets/demo.gif)
 
 ---
 
@@ -220,7 +220,6 @@ Essas melhorias permitiriam evoluir a aplicação de um projeto de estudos em Py
 
 **Gabriela de Andrade**
 
-\
 
 ---
 
