@@ -42,6 +42,7 @@ Ao iniciar o programa, o usuário encontra o seguinte menu:
 2. Listar restaurante
 3. Alternar estado do restaurante
 4. Sair
+Escolha uma opção:
 ```
 
 A partir dessas opções, é possível interagir com os restaurantes cadastrados diretamente pelo terminal.
@@ -53,11 +54,10 @@ A partir dessas opções, é possível interagir com os restaurantes cadastrados
 Durante o desenvolvimento do projeto, foram aplicados diferentes conceitos fundamentais de Python:
 
 * **Funções** — organização e reutilização das funcionalidades da aplicação
-* **Laços de repetição** — controle do fluxo da aplicação e interação com o menu
+* **Laços de repetição** — exibição da lista de restaurantes e controle de status
 * **Entrada de dados (****`input`****)** — interação com o usuário pelo terminal
 * **Formatação de strings** — apresentação e organização das informações
 * **Listas** — armazenamento de conjuntos de dados
-* **Tuplas** — utilização de estruturas de dados imutáveis
 * **Dicionários** — organização das informações dos restaurantes
 * **Estruturas condicionais (****`if`****, ****`elif`****, ****`else`****)** — tomada de decisões conforme as opções selecionadas
 * **Docstrings** — documentação das funções
